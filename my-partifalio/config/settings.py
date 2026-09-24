@@ -1,3 +1,0 @@
-# Application settings
-
-DEBUG = True
